@@ -27,7 +27,7 @@ Options:
 - -h, --help       Show this help message and exit (optional)
 
 Examples:
-./docker_system_prune.sh -o containers -p "myapp" -f -d -l # Prune containers with "myapp" in their name
-./docker_system_prune.sh -o all -f -l # Prune all resources, logging to file
-./docker_system_prune.sh -o images -p "myimage:*" -d # Show what would be pruned without actually pruning
+- ./docker_system_prune.sh -o containers -p "myapp" -f -d -l # Prune containers with "myapp" in their name
+- ./docker_system_prune.sh -o all -f -l # Prune all resources, logging to file
+- ./docker_system_prune.sh -o images -p "myimage:*" -d # Show what would be pruned without actually pruning
 
