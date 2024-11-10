@@ -1,7 +1,4 @@
 # bootcamp-tools
-This repo contains useful tools for development and operations.
-
-# bootcamp-tools
 
 This repo contains useful tools for development and operations.
 
